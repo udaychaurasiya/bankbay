@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704736796463",
+    "project_id": "bankbay-b0475",
+    "storage_bucket": "bankbay-b0475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704736796463:android:700f814edcd9f02a344bda",
+        "android_client_info": {
+          "package_name": "com.bankbay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704736796463-4rlmkklad02ha32nhj2rklftfeu77nd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bankbay",
+            "certificate_hash": "148608d9c7fae206674ecc1722a23fffcf1a8d9c"
+          }
+        },
+        {
+          "client_id": "704736796463-4jni10qavt8ltasg3kb5sheh0okim744.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVEM90YrzAB8XUnbK5h9RsJFVSlOZGY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704736796463-4jni10qavt8ltasg3kb5sheh0okim744.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

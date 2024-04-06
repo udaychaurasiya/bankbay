@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">7486256038078305</string>
+    <string name="fb_login_protocol_scheme">fb7486256038078305</string>
+    <string name="facebook_client_token">e4046e2e5b80ffc18fc21f7a53eb131f</string>
+    <string name="app_name">bankbay</string>
+</resources>
+
+
